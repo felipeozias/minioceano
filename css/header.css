@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ============== css the reader ============== */
+
+header {
+    display: flex;
+    width: 100%;
+    height: 128px;
+    background-color: #000769;
+}
+
+#header_l {
+    display: flex;
+    align-items: center;
+    width: 30%;
+    height: 100%;
+    padding: 0 0 0 6vw;
+}
+
+#logo_svg {
+    width: 33px;
+    height: 44px;
+}
+
+#logo_svg path {
+    fill: #fff;
+}
+
+#header_l a {
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    color: #fff;
+    margin-left: 15px;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+#header_r {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 5vw;
+    padding-top: 15px;
+    width: 70%;
+    height: 100%;
+}
+
+#header_r ul {
+    display: flex;
+    list-style: none;
+}
+
+#header_r ul a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #fff;
+    padding: 7px 34px;
+    text-decoration: none;
+    transition: all .3s;
+}
+
+#header_r ul a:hover {
+    color: #da832c;
+    transition: all .3s;
+}
+
+#header_r>a img {
+    width: 18px;
+    height: 18px;
+    margin: 5px;
+}
+
+#header_r>a:nth-child(5) img{
+    margin: 0 0 0 20px;
+    width: 28px;
+    height: 28px;
+}

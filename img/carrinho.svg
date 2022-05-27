@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="96px" height="96px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 96 96"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:white;stroke-width:4.429;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:0.45;stroke-miterlimit:22.9256}
+    .str0 {stroke:white;stroke-width:8.858;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1334145966704">
+   <polyline class="fil0 str0" points="7.5,18.063 21.204,18.063 36.866,58.686 78.222,58.686 88.5,32.256 "/>
+   <circle class="fil1 str1" cx="46.568" cy="72.798" r="5.139"/>
+   <circle class="fil1 str1" cx="68.924" cy="72.798" r="5.139"/>
+   <ellipse class="fil0 str2" cx="57.177" cy="30.421" rx="8.81" ry="10.89"/>
+  </g>
+ </g>
+</svg>

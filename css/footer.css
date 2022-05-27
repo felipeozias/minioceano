@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ============== css the footer ============== */
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    height: 173px;
+    padding: 30px 190px;
+    background-color: #000769;
+}
+
+footer img {
+    width: 20px;
+    height: 20px;
+}
+
+footer div {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    width: 250px;
+}
+
+footer p,
+footer a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+/* ----------- box_footer1 ----------- */
+
+
+/* ----------- box_footer2 ----------- */
+
+
+/* ----------- box_footer3 ----------- */
